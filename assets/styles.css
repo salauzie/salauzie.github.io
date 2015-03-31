@@ -1,6 +1,10 @@
 .top {
-	background-image: image-url('lights.jpg');
+	background-image: url(pictures/light.jpg);
 	width: 100%;
+	background-attachment: relative;
+  background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .about {
@@ -12,9 +16,6 @@
 }
 
 .resume {
-	background: red;
+	background: ;
 }
 
-body {
-	background-color: pink;
-}
