@@ -3,7 +3,7 @@
 }
 
 .about {
-	background: green;
+	color: green;
 }
 
 .projects {
@@ -12,4 +12,8 @@
 
 .resume {
 	background: red;
+}
+
+body {
+	background-color: pink;
 }
