@@ -1,5 +1,6 @@
 .top {
-	background: blue;
+	background-image: image-url('lights.jpg');
+	width: 100%;
 }
 
 .about {
