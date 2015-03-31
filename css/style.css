@@ -642,7 +642,7 @@
 
 	#header-wrapper
 	{
-		background: url('../images/banner.jpg') center center;
+		background: url('../images/lighties.jpg') center center;
 		background-size: cover;
 	}
 	
@@ -783,7 +783,7 @@
 		{
 			font-weight: 900;
 			text-transform: uppercase;
-			color: #fff;
+			color: #3B1C2C;
 		}
 		
 		#logo p
