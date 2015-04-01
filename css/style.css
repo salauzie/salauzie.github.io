@@ -642,8 +642,9 @@
 
 	#header-wrapper
 	{
-		background: url('../images/lighties.jpg') center center;
-		background-size: cover;
+		/*background: url('../images/christmas-lights.jpg') center center;*/
+	/*	background-size: cover;*/
+	background-color: grey;
 	}
 	
 		#header-wrapper:before
@@ -840,6 +841,10 @@
 			{
 				color: #e97770;
 			}
+
+		.bottom {
+			display: inline-block;
+		}	
 
 /*********************************************************************************/
 /* Copyright                                                                     */
