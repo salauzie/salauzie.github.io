@@ -510,9 +510,9 @@
 					position: relative;
 					display: inline-block;
 					color: #fff;
-					background: #2f333b url('images/overlay.png');
+					/*background: #2f333b url('images/overlay.png');*/
 					border-radius: 1em;
-					text-align: center;
+					/*text-align: center;*/
 				}
 
 /*********************************************************************************/
@@ -635,10 +635,10 @@
 				color: #484d55;
 			}
 			
-			.wrapper.style3 .image
+			/*.wrapper.style3 .image
 			{
 				border: solid 10px #fff;
-			}
+			}*/
 
 	#header-wrapper
 	{
@@ -767,10 +767,10 @@
 			{
 			}
 			
-				#footer-wrapper .feature-list h3:before
+				/*#footer-wrapper .feature-list h3:before
 				{
 					background: #3d4249 url('images/overlay.png');
-				}
+				}*/
 		
 /*********************************************************************************/
 /* Logo                                                                          */
