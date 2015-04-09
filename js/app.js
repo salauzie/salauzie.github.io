@@ -26,6 +26,19 @@
 //         //$('#imgDetail video').get(0).play(); //Optional, Play The video
 
 // });
+// $(window).scroll(function () {
+//     var scroll = $(window).scrollTop();
+//     if (scroll >= 700) {
+//         $("#nav").animate({
+//             top: scroll + 10
+//         }, 50);
+//     } else {
+//         $("#nav").animate({
+//             top: '10px'
+//         },50);
+//     }
+// });
+
 $(document).ready(function(){
 	console.log("Made it");
 	$('#imgDetail').mouseover(function(){
