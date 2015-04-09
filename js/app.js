@@ -28,13 +28,14 @@
 // });
 $(document).ready(function(){
 	console.log("Made it");
-	$('#top-img').mouseover(function(){
+	$('#imgDetail').mouseover(function(){
 		$('#top-img').hide();
-	$('#skatingvideo').show();
-	$('#skatingvideo').get(0).play();	
+		$('#skatingvideo').show();
+		$('#skatingvideo').get(0).play();	
 	});
-	$('#skatingvideo').mouseout(function(){
+	$('#imgDetail').mouseout(function(){
 		$('#skatingvideo').hide();
+		$('#skatingvideo').get(0).pause();
 		$('#top-img').show();
 	});
 });
