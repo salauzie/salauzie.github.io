@@ -97,8 +97,9 @@
 
 	/* Feature List */
 
-		.feature-list
+		.feature-list small
 		{
+			display: inline-block;
 		}
 
 			.feature-list section
