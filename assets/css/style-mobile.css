@@ -96,19 +96,26 @@
 			}
 
 	/* Feature List */
+	.section {
+		width: 100%;
+	}
 
 		.feature-list small
 		{
 			display: inline-block;
-			padding-left: 0;
-			padding-right: 0;
-			margin-left: 0;
-			margin-right: 0;
+		/*text-align: center;*/
 		}
+
+		/*.mycontact {
+			text-align: center;
+		}*/
 
 			.feature-list section
 			{
 				border-top: solid 1px #eee;
+				margin-right: 0;
+				margin-left: 0;
+
 			}
 
 				/* Ugh ... disgusting. */
@@ -298,6 +305,7 @@
 		{
 			border-top-color: #eee;
 			border-top-color: rgba(255,255,255,0.05);
+			margin: 0;
 		}
 
 /*********************************************************************************/
